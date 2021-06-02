@@ -1,5 +1,5 @@
 # postgreSQL project
-GROUP: РИМ101211
+GROUP: РИМ-101211
 COMMAND STRUCTURE:
 Fadhil
 Mohamed
